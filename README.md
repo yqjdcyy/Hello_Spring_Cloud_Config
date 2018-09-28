@@ -1,2 +1,2 @@
-# Hello_Spring_Cloud_Config
-Spring.Cloud.Config
+
+# Config.Repo for [yqjdcyy/Hello_Spring_Cloud](https://github.com/yqjdcyy/Hello_Spring_Cloud)
